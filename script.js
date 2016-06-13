@@ -17,6 +17,6 @@ $(document).ready(function(){
 	
 	
 	//begin main section
-	setup();
+	//setup();
 	displayTime();
 });
